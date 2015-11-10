@@ -1,0 +1,7 @@
+# node_modules ignored by default
+
+gulpfile.js
+*.config.js
+
+./tasks/build.js
+docs/**/*.js
